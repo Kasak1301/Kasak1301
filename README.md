@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kasak 👋
 
-<!--
-**Kasak1301/Kasak1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student | 💻 Learning Java & DSA | 🚀 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Languages: Java, Python
+- Web: HTML, CSS, JavaScript (basics)  
+- Tools: Git, GitHub, VS Code, Eclipse
+
+---
+
+## 📌 Currently Working On
+- Data Structures & Algorithms in Java  
+- Improving problem-solving skills  
+- Building small projects  
+
+---
+## 🌐 Connect with Me
+- LinkedIn: *https://www.linkedin.com/in/kasakg1121/*
+- Email: *kasakg1121@gmail.com*
