@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi, I'm Kasak 👋
 
 🎓 Engineering student | 💻 Learning Java & DSA | 🚀 Aspiring Software Developer  
